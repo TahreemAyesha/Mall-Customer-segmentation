@@ -11,8 +11,8 @@ Source: Mall Customer Segmentation Data (Kaggle).
 ⚙️ Steps Performed
 
 1. Data Exploration:
+ 
 Checked data types and missing values.
-
 Generated descriptive statistics  to understand distributions of income, age, and spending score.
 
 2. Data Preprocessing:
@@ -35,15 +35,15 @@ Calculated average Age, Annual Income, and Spending Score for each cluster:
 | Cluster | Age | Annual Income (k\$) | Spending Score | Segment Description                                         
 | ------- | --- | ------------------- | -------------- | ----------------------------------------------------------- 
 | 0       | 55  | 48                  | 42             | Older, low income, low spending   
-
+--------------------------------------------------------------------------------------------------------------------
 | 1       | 33  | 86                  | 82             | Young, high income, high spending (premium customers)  
-
+--------------------------------------------------------------------------------------------------------------------
 | 2       | 26  | 26                  | 75             | Young, low income, high spending   
-
+-----------------------------------------------------------------------------------------------------------------------
 | 3       | 27  | 54                  | 41             | Young, average income, moderate spending  
-
+----------------------------------------------------------------------------------------------------------------------
 | 4       | 44  | 90                  | 18             | Middle-aged, high income, low spending  
-
+---------------------------------------------------------------------------------------------------------------------
 
 
  📊 Visualizations
